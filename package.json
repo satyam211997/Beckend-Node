@@ -1,0 +1,10 @@
+{
+
+  "scripts": {
+    "start": "nodemon ./Node/Day1/fakeApi.js",
+    "start2": "nodemon ./Node/Day2/express.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
